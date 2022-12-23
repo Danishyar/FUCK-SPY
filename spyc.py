@@ -1,2 +1,2 @@
-from FUCK import main
+from FILE import main
 main()
